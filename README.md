@@ -10,17 +10,31 @@ The client for this project are cancer pathologists and oncologists. Their decis
 The data for this analysis will be a csv file containing 30 features of a cell nuclei of a tumor cell. This will be acquired from the following data base link:
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/data
 ### Approach outline
+
 1-	Read data and store it in a data frame.
+
 2-	Perform data wrangling:
-•	Check data for duplicate values.
-•	Check data for NaN values.
-•	Check metadata to determine which of the columns are required for the analysis.
-•	Check if reshaping (melting or pivoting) the data frame helps in visualization and analysis. 
+
+  •	Check data for duplicate values.
+   
+  •	Check data for NaN values.
+   
+  •	Check metadata to determine which of the columns are required for the analysis.
+   
+  •	Check if reshaping (melting or pivoting) the data frame helps in visualization and analysis.
+   
 3-	Perform visual exploratory data analysis:
-1- Plot box plots to inspect changes in different parameters.
+
+  • Plot box plots to inspect changes in different parameters.
+   
 4-	Perform statistical exploratory data analysis to inspect changes in different parameter.
-5-	Discover which of the parameters show the greatest changes between the two types of tumors. 
+
+5-	Discover which of the parameters show the greatest changes between the two types of tumors.
+
 ### Deliverables
+
 1-	The final code used for analysis.
+
 2-	The full code (exploratory data analysis code) which can be read to see why the data frame is sliced in a certain manner and why a function for visualization is written.
+
 3-	A final report describing the methodology used in the analysis and the results obtained from the analysis.
