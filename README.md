@@ -30,8 +30,10 @@ In this and the proceeding sections, malignant and benign nuclei will referred t
        • First check if values of features are normally distributed.   
        • Based on the test of normalcy, use parametric (values are normally distributed) or non-parametric (values are not normally distributed) statistical test.
           
-   5- Based on the analysis performed, there should be enough information to build a coarse visual model showing the difference in        nuclei features between the two nuclei.        
+   5- Based on the analysis performed, there should be enough information to build a coarse visual model showing the difference in        nuclei features between the two nuclei.    
+      
    6- Perform Principal Component Analysis (PCA) if the number of samples compared to number of features is small (which it is as    described by the data set’s metadata). Moreover, if correlation is seen between different features, this will perform feature extraction and reduce the dimensionality of the data.   
+      
    7- Build predictive models for the data set:   
        
        • Build a k-nearest neighbors model for the data as the first predictive model. Based on the fact that there are two classes with a small number of samples compared to the number of features, this model is a good starting point. Check the accuracy of the model using the f-1 score.   
