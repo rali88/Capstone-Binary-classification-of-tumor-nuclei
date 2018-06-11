@@ -38,6 +38,6 @@ In this and the proceeding sections, malignant and benign nuclei will referred t
        • Build a logistic regression model (logreg) as another predictive model. Check the accuracy of the model using the f-1 score to see if it performs better than the k-NN model.   
        • Build a logistic regression model (logreg) without performing PCA. This model will provide coefficients for different features for users who want to see the effect of different features on determining the class of a nucleus. Check the accuracy of the model using the f-1 score and compare it to logreg with PCA performed to check whether performing PCA resulted in an improved model.    
 ## Deliverables   
-    1- [Jupyter notebook with code, markdowns and figures](https://github.com/rali88/Capstone-Project-1/blob/master/Tumor%20classification.ipynb)   
-    2- [A final analysis report describing the methodology used and the results obtained from the analysis](https://github.com/rali88/Capstone-Project-1/blob/master/Analysis%20report.pdf) 
+    1- <https://github.com/rali88/Capstone-Project-1/blob/master/Tumor%20classification.ipynb> "Jupyter notebook with code, markdowns and figures."   
+    2- <https://github.com/rali88/Capstone-Project-1/blob/master/Analysis%20report.pdf> "A final analysis report describing the methodology used and the results obtained from the analysis."    
     3- A slide deck summarizing the analysis.   
