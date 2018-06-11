@@ -41,5 +41,5 @@ In this and the proceeding sections, malignant and benign nuclei will referred t
     1- [Jupyter notebook][1] with code, markdowns and figures.   
     2- [A final analysis report][2] describing the methodology used and the results obtained from the analysis.   
     3- A slide deck summarizing the analysis.   
-        [1]: ../blob/master/Tumor%20classification.ipynb/   "Jupyter notebook"
-        [2]: ../blob/master/Analysis%20report.pdf/  "A final analysis report"
+        [1]: https://github.com/rali88/Capstone-Project-1/blob/master/Tumor%20classification.ipynb/   "Jupyter notebook"
+        [2]: https://github.com/rali88/Capstone-Project-1/blob/master/Analysis%20report.pdf/  "A final analysis report"
