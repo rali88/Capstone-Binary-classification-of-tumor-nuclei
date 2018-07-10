@@ -1,12 +1,12 @@
-Classification of tumors into 2 categories (benign or malignant) based on features of tumor cell nuclei     
+## Classification of tumors into 2 categories (benign or malignant) based on features of tumor cell nuclei     
       
-Summary     
+### Summary     
       
-Links    
+#### Links    
     
 [Project proposal]()      
-[jupyter notebook]()     
-[Analysis report]()        
+[jupyter notebook](https://github.com/rali88/Capstone-Project-1/blob/master/Tumor%20classification.ipynb)     
+[Analysis report](https://github.com/rali88/Capstone-Project-1/blob/master/Analysis%20report.pdf)        
 [Slide deck]()       
         
 **Problem:** classification of tumor nuclie in to 2 classes: malignant and benign.   
@@ -27,19 +27,19 @@ Links
        
 2- **Exploratory and statistical analysis:** Correlation between different features:        
 
-![](..\BoxAndStripPlot.png)   
+![Correlation matrix](https://github.com/rali88/Capstone-Project-1/blob/master/CorrelationPlot.png)   
 
 There is a high correlation between radius, area and perimeter. Moreover, a high correlation between compactness, concavity and number of concave points can also be seen. Performing Principal Component Analysis (PCA) before building our predictive models might be beneficial.      
         
 Differences between the features for the two classes:      
        
-Differnece plot.
-      
+![Difference](https://github.com/rali88/Capstone-Project-1/blob/master/BoxAndStripPlot.png)        
+	
 Almost all the features differ between the two classes.     
        
 Calcualating percentage changes:     
       
-Percentage change plot.      
+![Percentage change](https://github.com/rali88/Capstone-Project-1/blob/master/PercentageChangePlot.png)      
        
 The largest changes are observed in the concavity and the number of concave points. Area of malignant nuclei also increases compared to benign nuclei.      
       
@@ -59,7 +59,7 @@ Normalcy test shows that data is not normally distributed. Mann-whitney u test s
        
 Princiapal component analysis (PCA) for feature selection. 
        
-Figure 4: Cumulative variance explained by different number of components.     
+![PCA](https://github.com/rali88/Capstone-Project-1/blob/master/PCA.png)     
 
 Variance of the data can be completely explained by 15 components. 10 components explain most of the variance in the data (~97%). We have reduced the dimensionality of our data by a factor of 2!      
         
