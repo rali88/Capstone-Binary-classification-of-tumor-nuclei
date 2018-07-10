@@ -1,8 +1,9 @@
-##Classification of tumors into 2 categories (benign or malignant) based on features of tumor cell nuclei
-   
-####Summary
-     
-####Links      
+Classification of tumors into 2 categories (benign or malignant) based on features of tumor cell nuclei     
+      
+Summary     
+      
+Links    
+    
 [Project proposal]()      
 [jupyter notebook]()     
 [Analysis report]()        
@@ -22,9 +23,9 @@
       
 **Methodology and results**
       
-1. **Data wrangling:** Check for sample repittion, check for NaN values, normalize data if needed and remove unnecessary columns.     
+1- **Data wrangling:** Check for sample repittion, check for NaN values, normalize data if needed and remove unnecessary columns.     
        
-2. **Exploratory and statistical analysis:** Correlation between different features:        
+2- **Exploratory and statistical analysis:** Correlation between different features:        
 
 ![](..\BoxAndStripPlot.png)   
 
