@@ -7,7 +7,7 @@
 [Project proposal](https://github.com/rali88/Capstone-Project-1/blob/master/Project%20proposal.pdf)      
 [jupyter notebook](https://github.com/rali88/Capstone-Project-1/blob/master/Tumor%20classification.ipynb)     
 [Analysis report](https://github.com/rali88/Capstone-Project-1/blob/master/Analysis%20report.pdf)        
-[Slide deck]()       
+[Slide deck](https://github.com/rali88/Capstone-Project-1/blob/master/Slide%20Deck.pptx)       
         
 **Problem:** classification of tumor nuclie in to 2 classes: malignant and benign.   
    
