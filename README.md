@@ -4,7 +4,7 @@
       
 #### Links    
     
-[Project proposal]()      
+[Project proposal](https://github.com/rali88/Capstone-Project-1/blob/master/Project%20proposal.pdf)      
 [jupyter notebook](https://github.com/rali88/Capstone-Project-1/blob/master/Tumor%20classification.ipynb)     
 [Analysis report](https://github.com/rali88/Capstone-Project-1/blob/master/Analysis%20report.pdf)        
 [Slide deck]()       
@@ -49,11 +49,7 @@ Normalcy test shows that data is not normally distributed. Mann-whitney u test s
 
 3- **Visual model:**    
       
-	Benign nucleus	Malignant nucleus
- 
-	Larger in size.
-   Smaller in size.
-   No distortion in shape	distortion in shape because of increase in the number of concave points and their concavity 
+![Visual model](https://github.com/rali88/Capstone-Project-1/blob/master/VisualModel.png) 
 
 4- **Shallow machine learning models:**     
        
